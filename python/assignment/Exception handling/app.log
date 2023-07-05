@@ -1,0 +1,12 @@
+2023-07-05 13:31:00,328 - ClassA - DEBUG - Debug message from ClassA - method1
+2023-07-05 13:31:00,335 - ClassA - INFO - Info message from ClassA - method1
+2023-07-05 13:31:00,339 - ClassB - DEBUG - Debug message from ClassB - method2
+2023-07-05 13:31:00,342 - ClassB - INFO - Info message from ClassB - method2
+2023-07-05 13:50:56,846 - ClassA - DEBUG - Debug message from ClassA - method1
+2023-07-05 13:50:56,846 - ClassA - DEBUG - Debug message from ClassA - method1
+2023-07-05 13:50:56,851 - ClassA - INFO - Info message from ClassA - method1
+2023-07-05 13:50:56,851 - ClassA - INFO - Info message from ClassA - method1
+2023-07-05 13:50:56,854 - ClassB - DEBUG - Debug message from ClassB - method2
+2023-07-05 13:50:56,854 - ClassB - DEBUG - Debug message from ClassB - method2
+2023-07-05 13:50:56,857 - ClassB - INFO - Info message from ClassB - method2
+2023-07-05 13:50:56,857 - ClassB - INFO - Info message from ClassB - method2

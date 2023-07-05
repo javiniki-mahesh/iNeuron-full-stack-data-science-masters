@@ -1,0 +1,10 @@
+Exception: ZeroDivisionError, Timestamp: 2023-07-05 13:49:24.047024
+
+Cannot divide by zero.
+Critical error occurred: division by zero
+This is an error message.
+This is a critical message.
+Exception: ZeroDivisionError, Timestamp: 2023-07-05 13:50:56.903623
+
+Exception: ZeroDivisionError, Timestamp: 2023-07-05 13:50:56.903623
+
